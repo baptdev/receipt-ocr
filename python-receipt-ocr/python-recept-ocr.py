@@ -13,3 +13,4 @@ r = requests.post(receiptOcrEndpoint, data = { \
   files = {"file": open(imageFile, "rb")})
 
 print(r.text) # result in JSON
+
