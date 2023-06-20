@@ -1,62 +1,87 @@
 description;amount;date
-Banane kg;1.19;09:56-2023-06-03
-Nectarine;2.99;09:56-2023-06-03
-Del.Koch Ham;1.79;09:56-2023-06-03
-Sauce de pomme sugared;0.89;09:56-2023-06-03
-Jeunes haricots;0.99;09:56-2023-06-03
-Papier toilette 31g;4.05;09:56-2023-06-03
-Torchons de cuisine;2.85;09:56-2023-06-03
-Par;0.65;09:56-2023-06-03
+Bananen kg;1.19;09:56-2023-06-03
+Nektarinen;2.99;09:56-2023-06-03
+Del.Kochschinken;1.79;09:56-2023-06-03
+Apfelmus gezuckert;0.89;09:56-2023-06-03
+Junge Brechbohnen;0.99;09:56-2023-06-03
+Toilettenpapier 31g;4.05;09:56-2023-06-03
+Küchentücher;2.85;09:56-2023-06-03
+Per.Tragetasche;0.65;09:56-2023-06-03
 Hygienespray Univer;1.95;09:56-2023-06-03
-Éponge;0.75;09:56-2023-06-03
-Sacs à déchets 601 25;1.89;09:56-2023-06-03
-Tous -purpose propre.Tü;1.99;09:56-2023-06-03
-Fresh Hold '0384936;9.99;09:56-2023-06-03
-Tomatestrau.kg;1.01;20:45-2023-06-03
-Salade d'iceberg;0.95;20:45-2023-06-03
-Légumes asiatiques;1.99;20:45-2023-06-03
+Topfschwamm;0.75;09:56-2023-06-03
+Abfallsäcke 601 25er;1.89;09:56-2023-06-03
+Allzweckrein. Tü;1.99;09:56-2023-06-03
+Frischhalt '0384936;9.99;09:56-2023-06-03
+TomateStrau. kg;1.01;20:45-2023-06-03
+Eisbergsalat;0.95;20:45-2023-06-03
+Asiatisches Gemüse;1.99;20:45-2023-06-03
 Mozzarella;0.99;20:45-2023-06-03
-H-lait H, 1,5% OGT;1.05;20:45-2023-06-03
-Spaghetti xxl;0.89;20:45-2023-06-03
-Était un éther;2.29;20:45-2023-06-03
-Épiceries;3.19;20:45-2023-06-03
-Carotte multi-fruits;1.99;20:45-2023-06-03
-Caswwkerne 200g;2.39;20:45-2023-06-03
-Canneberges getrock;2.19;20:45-2023-06-03
-Poulet;3.99;20:45-2023-06-03
-Hack de bétail 500g;4.89;20:45-2023-06-03
-Tomatestrau.kg;1.83;19:32-2023-06-07
-Gourmet;1.99;19:32-2023-06-07
-Légumes mexicains;1.99;19:32-2023-06-07
-Riz sauté;3.49;19:32-2023-06-07
-Mozzarella Light0,992;1.98;19:32-2023-06-07
-Tranches de gouda;2.99;19:32-2023-06-07
-Huile d'olive supplémentaire;4.99;19:32-2023-06-07
-Gruau organique;0.95;19:32-2023-06-07
-Confiture de fraise;1.39;19:32-2023-06-07
-Macchronelli;1.19;19:32-2023-06-07
-Mariage;2.99;19:32-2023-06-07
-H-lait H, 1,5% OGT;1.05;19:32-2023-06-07
-Tomates hachées;0.85;19:32-2023-06-07
-Sauce de pomme sugared;0.89;19:32-2023-06-07
-Clas de tortillas de feu;2.49;19:32-2023-06-07
-Sch sch.100g;0.75;19:32-2023-06-07
-Snackmandeln xxl;5.49;19:32-2023-06-07
-Sashmich est bon;1.15;19:32-2023-06-07
-Se cramponner;1.35;19:32-2023-06-07
-sac de congé;1.95;19:32-2023-06-07
-Banane kg;1.36;16:03-2023-06-10
-oignons jaunes;2.99;16:03-2023-06-10
-PC mangue;1.39;16:03-2023-06-10
-Pêche;1.99;16:03-2023-06-10
-Légumes asiatiques;1.99;16:03-2023-06-10
+H-Milch 1,5% OGT;1.05;20:45-2023-06-03
+Spaghetti XXL;0.89;20:45-2023-06-03
+Bio Eter;2.29;20:45-2023-06-03
+Lebensmittel;3.19;20:45-2023-06-03
+Mehrfrucht-Karotten;1.99;20:45-2023-06-03
+Cashewkerne 200g;2.39;20:45-2023-06-03
+Cranberries getrock;2.19;20:45-2023-06-03
+Hähnchen-Geschn;3.99;20:45-2023-06-03
+Rinderhack 500g;4.89;20:45-2023-06-03
+TomateStrau. kg;1.83;19:32-2023-06-07
+Feinschmeckergemüse;1.99;19:32-2023-06-07
+Mexikanisches Gemüse;1.99;19:32-2023-06-07
+Nasi Goreng;3.49;19:32-2023-06-07
+Mozzarella light0,992;1.98;19:32-2023-06-07
+Gouda Scheiben;2.99;19:32-2023-06-07
+Olivenöl Extra;4.99;19:32-2023-06-07
+Bio Haferflocken;0.95;19:32-2023-06-07
+Erdbeer-Konfitüre;1.39;19:32-2023-06-07
+Maccronelli;1.19;19:32-2023-06-07
+Basmati Reis;2.99;19:32-2023-06-07
+H-Milch 1,5% OGT;1.05;19:32-2023-06-07
+Gehackte Tomaten;0.85;19:32-2023-06-07
+Apfelmus gezuckert;0.89;19:32-2023-06-07
+FUEGO Tortillas Clas;2.49;19:32-2023-06-07
+Traube-Nuß Sch. 100g;0.75;19:32-2023-06-07
+Snackmandeln XXL;5.49;19:32-2023-06-07
+Schwammtuch 5er;1.15;19:32-2023-06-07
+Frischhaltefolie;1.35;19:32-2023-06-07
+Gefrierbeutel;1.95;19:32-2023-06-07
+Bananen kg;1.36;16:03-2023-06-10
+Zwiebeln gelb;2.99;16:03-2023-06-10
+Mango Stk;1.39;16:03-2023-06-10
+Pfirsiche;1.99;16:03-2023-06-10
+Asiatisches Gemüse;1.99;16:03-2023-06-10
 Bioland Type 630;1.59;16:03-2023-06-10
-H-lait H, 1,5% OGT;0.95;16:03-2023-06-10
-Fr.aier.a.bo.ha octobre;1.99;16:03-2023-06-10
-Sel de piment;1.09;16:03-2023-06-10
-Fusillis;0.79;16:03-2023-06-10
-Sauce de pomme sugared;0.89;16:03-2023-06-10
-Carotte multi-fruits;1.99;16:03-2023-06-10
-Canneberries sult.mix;2.19;16:03-2023-06-10
-Pain maître;1.99;16:03-2023-06-10
-Poulet;3.99;16:03-2023-06-10
+H-Milch 1,5% OGT;0.95;16:03-2023-06-10
+Fr.Eier.a.Bo.ha OKT;1.99;16:03-2023-06-10
+Chilisalz;1.09;16:03-2023-06-10
+Fusilli;0.79;16:03-2023-06-10
+Apfelmus gezuckert;0.89;16:03-2023-06-10
+Mehrfrucht-Karotten;1.99;16:03-2023-06-10
+Cranberries Sult.Mix;2.19;16:03-2023-06-10
+Meisterbrot;1.99;16:03-2023-06-10
+Hähnchen-Geschn;3.99;16:03-2023-06-10
+Paprika rot kg;0.75;20:00-2023-06-15
+TomateStrau. kg;1.1;20:00-2023-06-15
+Nektarinen;2.49;20:00-2023-06-15
+Asiatisches Gemüse;1.99;20:00-2023-06-15
+Butterkäse [ OGT];2.99;20:00-2023-06-15
+Griech. Joghurt 2%;1.99;20:00-2023-06-15
+DelverdeClass. Integ;1.79;20:00-2023-06-15
+Haferf. Kern;0.79;20:00-2023-06-15
+Knuspermüsli + Schoko;2.49;20:00-2023-06-15
+H-Milch 1,5% OGT;0.95;20:00-2023-06-15
+Apfelmus gezuckert;0.89;20:00-2023-06-15
+Mehrfrucht-Karotten;1.99;20:00-2023-06-15
+Traube-Nuß Sch. 100g;0.75;20:00-2023-06-15
+Frucht-Nuss-Mix;1.99;20:00-2023-06-15
+Meisterbrot;1.99;20:00-2023-06-15
+Edelstahltopfreinig;0.99;20:00-2023-06-15
+Rinderhack 500g;4.79;20:00-2023-06-15
+Hähnchen-Geschn;3.99;20:00-2023-06-15
+Bananen kg;1.12;14:15-2023-06-17
+Apfel rot, fru.-süß;2.99;14:15-2023-06-17
+Mexikanisches Gemüse;1.99;14:15-2023-06-17
+Feinschmeckergemüse;1.99;14:15-2023-06-17
+Knuspermüsli + Schoko;2.49;14:15-2023-06-17
+Apfelmus gezuckert;0.89;14:15-2023-06-17
+Traube-Nuß Sch. 100g;0.75;14:15-2023-06-17

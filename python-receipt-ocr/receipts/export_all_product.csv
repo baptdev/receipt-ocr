@@ -1,62 +1,87 @@
 amount;category;description;flags;qty;remarks;tags;unitPrice;merchant_name;country;date
-1.19;;Banane kg; A;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-2.99;;Nectarine; A;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-1.79;;Del.Koch Ham; A;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-0.89;;Sauce de pomme sugared; A;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-0.99;;Jeunes haricots; A;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-4.05;;Papier toilette 31g; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-2.85;;Torchons de cuisine; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-0.65;;Par; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+1.19;;Bananen kg; A;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+2.99;;Nektarinen; A;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+1.79;;Del.Kochschinken; A;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+0.89;;Apfelmus gezuckert; A;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+0.99;;Junge Brechbohnen; A;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+4.05;;Toilettenpapier 31g; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+2.85;;Küchentücher; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+0.65;;Per.Tragetasche; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
 1.95;;Hygienespray Univer; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-0.75;;Éponge; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-1.89;;Sacs à déchets 601 25; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-1.99;;Tous -purpose propre.Tü; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-9.99;;Fresh Hold '0384936; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
-1.01;;Tomatestrau.kg; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-0.95;;Salade d'iceberg; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-1.99;;Légumes asiatiques; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+0.75;;Topfschwamm; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+1.89;;Abfallsäcke 601 25er; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+1.99;;Allzweckrein. Tü; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+9.99;;Frischhalt '0384936; B;;;;;Müllerstraße 48-48a;DE;09:56-2023-06-03
+1.01;;TomateStrau. kg; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+0.95;;Eisbergsalat; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+1.99;;Asiatisches Gemüse; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
 0.99;;Mozzarella; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-1.05;;H-lait H, 1,5% OGT; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-0.89;;Spaghetti xxl; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-2.29;;Était un éther; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-3.19;;Épiceries; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-1.99;;Carotte multi-fruits; B;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-2.39;;Caswwkerne 200g; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-2.19;;Canneberges getrock; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-3.99;;Poulet; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-4.89;;Hack de bétail 500g; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
-1.83;;Tomatestrau.kg; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-1.99;;Gourmet; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-1.99;;Légumes mexicains; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-3.49;;Riz sauté; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-1.98;;Mozzarella Light0,992; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-2.99;;Tranches de gouda; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-4.99;;Huile d'olive supplémentaire; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-0.95;;Gruau organique; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-1.39;;Confiture de fraise; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-1.19;;Macchronelli; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-2.99;;Mariage; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-1.05;;H-lait H, 1,5% OGT; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-0.85;;Tomates hachées; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-0.89;;Sauce de pomme sugared; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-2.49;;Clas de tortillas de feu; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-0.75;;Sch sch.100g; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-5.49;;Snackmandeln xxl; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-1.15;;Sashmich est bon; B;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-1.35;;Se cramponner; B;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-1.95;;sac de congé; B;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
-1.36;;Banane kg; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-2.99;;oignons jaunes; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-1.39;;PC mangue; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-1.99;;Pêche; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-1.99;;Légumes asiatiques; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+1.05;;H-Milch 1,5% OGT; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+0.89;;Spaghetti XXL; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+2.29;;Bio Eter; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+3.19;;Lebensmittel; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+1.99;;Mehrfrucht-Karotten; B;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+2.39;;Cashewkerne 200g; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+2.19;;Cranberries getrock; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+3.99;;Hähnchen-Geschn; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+4.89;;Rinderhack 500g; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+1.83;;TomateStrau. kg; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+1.99;;Feinschmeckergemüse; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+1.99;;Mexikanisches Gemüse; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+3.49;;Nasi Goreng; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+1.98;;Mozzarella light0,992; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+2.99;;Gouda Scheiben; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+4.99;;Olivenöl Extra; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+0.95;;Bio Haferflocken; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+1.39;;Erdbeer-Konfitüre; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+1.19;;Maccronelli; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+2.99;;Basmati Reis; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+1.05;;H-Milch 1,5% OGT; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+0.85;;Gehackte Tomaten; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+0.89;;Apfelmus gezuckert; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+2.49;;FUEGO Tortillas Clas; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+0.75;;Traube-Nuß Sch. 100g; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+5.49;;Snackmandeln XXL; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+1.15;;Schwammtuch 5er; B;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+1.35;;Frischhaltefolie; B;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+1.95;;Gefrierbeutel; B;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
+1.36;;Bananen kg; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+2.99;;Zwiebeln gelb; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+1.39;;Mango Stk; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+1.99;;Pfirsiche; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+1.99;;Asiatisches Gemüse; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
 1.59;;Bioland Type 630; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-0.95;;H-lait H, 1,5% OGT; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-1.99;;Fr.aier.a.bo.ha octobre; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-1.09;;Sel de piment; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-0.79;;Fusillis; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-0.89;;Sauce de pomme sugared; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-1.99;;Carotte multi-fruits; B;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-2.19;;Canneberries sult.mix; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-1.99;;Pain maître; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
-3.99;;Poulet; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+0.95;;H-Milch 1,5% OGT; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+1.99;;Fr.Eier.a.Bo.ha OKT; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+1.09;;Chilisalz; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+0.79;;Fusilli; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+0.89;;Apfelmus gezuckert; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+1.99;;Mehrfrucht-Karotten; B;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+2.19;;Cranberries Sult.Mix; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+1.99;;Meisterbrot; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+3.99;;Hähnchen-Geschn; A;;;;;LIDL Müllerstraße 48-48a;DE;16:03-2023-06-10
+0.75;;Paprika rot kg; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+1.1;;TomateStrau. kg; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+2.49;;Nektarinen; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+1.99;;Asiatisches Gemüse; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+2.99;;Butterkäse [ OGT]; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+1.99;;Griech. Joghurt 2%; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+1.79;;DelverdeClass. Integ; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+0.79;;Haferf. Kern; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+2.49;;Knuspermüsli + Schoko; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+0.95;;H-Milch 1,5% OGT; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+0.89;;Apfelmus gezuckert; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+1.99;;Mehrfrucht-Karotten; B;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+0.75;;Traube-Nuß Sch. 100g; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+1.99;;Frucht-Nuss-Mix; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+1.99;;Meisterbrot; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+0.99;;Edelstahltopfreinig; B;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+4.79;;Rinderhack 500g; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+3.99;;Hähnchen-Geschn; A;;;;;Müllerstraße 48-48a;DE;20:00-2023-06-15
+1.12;;Bananen kg; A;;;;;LODL Müllerstraße 48-48a;DE;14:15-2023-06-17
+2.99;;Apfel rot, fru.-süß; A;;;;;LODL Müllerstraße 48-48a;DE;14:15-2023-06-17
+1.99;;Mexikanisches Gemüse; A;;;;;LODL Müllerstraße 48-48a;DE;14:15-2023-06-17
+1.99;;Feinschmeckergemüse; A;;;;;LODL Müllerstraße 48-48a;DE;14:15-2023-06-17
+2.49;;Knuspermüsli + Schoko; A;;;;;LODL Müllerstraße 48-48a;DE;14:15-2023-06-17
+0.89;;Apfelmus gezuckert; A;;;;;LODL Müllerstraße 48-48a;DE;14:15-2023-06-17
+0.75;;Traube-Nuß Sch. 100g; A;;;;;LODL Müllerstraße 48-48a;DE;14:15-2023-06-17
