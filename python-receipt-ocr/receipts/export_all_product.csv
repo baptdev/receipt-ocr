@@ -25,6 +25,12 @@ amount;category;description;flags;qty;remarks;tags;unitPrice;merchant_name;count
 2.19;;Cranberries getrock; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
 3.99;;Hähnchen-Geschn; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
 4.89;;Rinderhack 500g; A;;;;;LIDL Müllerstraße 48-48a;DE;20:45-2023-06-03
+1.29;;Bananen kg; A;;;;;LIDL Müllerstraße 48-48a;DE;-2023-07-04
+0.44;;Gurke Stk; A;;;;;LIDL Müllerstraße 48-48a;DE;-2023-07-04
+1.99;;Fr.Eier.a.Bo.ha OKT; A;;;;;LIDL Müllerstraße 48-48a;DE;-2023-07-04
+0.95;;H-Milch 1,5% OGT; A;;;;;LIDL Müllerstraße 48-48a;DE;-2023-07-04
+1.99;;Mehrfrucht-Karotten; B;;;;;LIDL Müllerstraße 48-48a;DE;-2023-07-04
+5.99;;Hähnchenbr.Filet600g; A;;;;;LIDL Müllerstraße 48-48a;DE;-2023-07-04
 1.83;;TomateStrau. kg; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
 1.99;;Feinschmeckergemüse; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
 1.99;;Mexikanisches Gemüse; A;;;;;LIDL Müllerstraße 48-48a;DE;19:32-2023-06-07
@@ -85,3 +91,35 @@ amount;category;description;flags;qty;remarks;tags;unitPrice;merchant_name;count
 2.49;;Knuspermüsli + Schoko; A;;;;;LODL Müllerstraße 48-48a;DE;14:15-2023-06-17
 0.89;;Apfelmus gezuckert; A;;;;;LODL Müllerstraße 48-48a;DE;14:15-2023-06-17
 0.75;;Traube-Nuß Sch. 100g; A;;;;;LODL Müllerstraße 48-48a;DE;14:15-2023-06-17
+0.87;;TomateStrau. kg; A;;;;;LIDL Müllerstraße 48-48a;DE;19:25-2023-06-21
+1.06;;Bananen kg; A;;;;;LIDL Müllerstraße 48-48a;DE;19:25-2023-06-21
+0.39;;Gurke Stk; A;;;;;LIDL Müllerstraße 48-48a;DE;19:25-2023-06-21
+3.49;;Bami Goreng; A;;;;;LIDL Müllerstraße 48-48a;DE;19:25-2023-06-21
+3.49;;Nasi Goreng; A;;;;;LIDL Müllerstraße 48-48a;DE;19:25-2023-06-21
+1.99;;Asiatisches Gemüse; A;;;;;LIDL Müllerstraße 48-48a;DE;19:25-2023-06-21
+0.95;;H-Milch 1,5% OGT; A;;;;;LIDL Müllerstraße 48-48a;DE;19:25-2023-06-21
+1.49;;Fr.Eier.a.Bo.ha; A;;;;;LIDL Müllerstraße 48-48a;DE;19:25-2023-06-21
+0.89;;Meisterbrot; A;;;;;LIDL Müllerstraße 48-48a;DE;19:25-2023-06-21
+0.59;;Tiefkühltasche; B;;;;;LIDL Müllerstraße 48-48a;DE;19:25-2023-06-21
+3.99;;Hähnchen-Geschn; A;;;;;LIDL Müllerstraße 48-48a;DE;19:25-2023-06-21
+1.49;;Schalotten 500g; A;;;;;LİDL;DE;18:32-2023-06-23
+1.99;;Feinschmeckergemüse; A;;;;;LİDL;DE;18:32-2023-06-23
+1.78;;Mozzarella light0,89 2; A;;;;;LİDL;DE;18:32-2023-06-23
+0.89;;Apfelmus gezuckert; A;;;;;LİDL;DE;18:32-2023-06-23
+1.99;;Mehrfrucht-Karotten; B;;;;;LİDL;DE;18:32-2023-06-23
+0.69;;Zitronensaft; B;;;;;LİDL;DE;18:32-2023-06-23
+0.75;;Traube-Nuß Sch. 100g; A;;;;;LİDL;DE;18:32-2023-06-23
+6.99;;Puten-Minifilet XXL; A;;;;;LİDL;DE;18:32-2023-06-23
+4.79;;Rinderhack 500g; A;;;;;LİDL;DE;18:32-2023-06-23
+1.37;;Bananen kg; A;;;;;LIDL;DE;18:34-2023-06-27
+0.83;;TomateStrau. kg; A;;;;;LIDL;DE;18:34-2023-06-27
+2.59;;Nektarinen; A;;;;;LIDL;DE;18:34-2023-06-27
+0.44;;Gurke Stk; A;;;;;LIDL;DE;18:34-2023-06-27
+1.99;;Feinschmeckergemüse; A;;;;;LIDL;DE;18:34-2023-06-27
+1.79;;Del.Kochschinken; A;;;;;LIDL;DE;18:34-2023-06-27
+0.95;;H-Milch 1,5% OGT; A;;;;;LIDL;DE;18:34-2023-06-27
+2.49;;Knuspermüsli + Schoko; A;;;;;LIDL;DE;18:34-2023-06-27
+2.99;;Basmati Reis; A;;;;;LIDL;DE;18:34-2023-06-27
+1.99;;Mehrfrucht-Karotten; B;;;;;LIDL;DE;18:34-2023-06-27
+0.75;;Traube-Nuß Sch. 100g; A;;;;;LIDL;DE;18:34-2023-06-27
+1.99;;Meisterbrot; A;;;;;LIDL;DE;18:34-2023-06-27

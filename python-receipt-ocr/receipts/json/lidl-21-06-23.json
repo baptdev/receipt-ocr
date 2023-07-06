@@ -1,0 +1,337 @@
+{
+    "file_name": "lidl-21-06-23.jpg",
+    "image_height": 2200,
+    "image_rotation": -0.074,
+    "image_width": 864,
+    "ocr_type": "receipts",
+    "receipts": [
+        {
+            "avg_char_width": 19.5032,
+            "avg_line_height": 35.9315,
+            "conf_amount": 83,
+            "country": "DE",
+            "credit_card_number": null,
+            "credit_card_type": null,
+            "currency": "EUR",
+            "date": "2023-06-21",
+            "height": 2174,
+            "items": [
+                {
+                    "amount": 0.87,
+                    "category": null,
+                    "description": "TomateStrau. kg",
+                    "flags": " A",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 1.06,
+                    "category": null,
+                    "description": "Bananen kg",
+                    "flags": " A",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 0.39,
+                    "category": null,
+                    "description": "Gurke Stk",
+                    "flags": " A",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 3.49,
+                    "category": null,
+                    "description": "Bami Goreng",
+                    "flags": " A",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 3.49,
+                    "category": null,
+                    "description": "Nasi Goreng",
+                    "flags": " A",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 1.99,
+                    "category": null,
+                    "description": "Asiatisches Gemüse",
+                    "flags": " A",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 0.95,
+                    "category": null,
+                    "description": "H-Milch 1,5% OGT",
+                    "flags": " A",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 1.49,
+                    "category": null,
+                    "description": "Fr.Eier.a.Bo.ha",
+                    "flags": " A",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 0.89,
+                    "category": null,
+                    "description": "Meisterbrot",
+                    "flags": " A",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 0.59,
+                    "category": null,
+                    "description": "Tiefkühltasche",
+                    "flags": " B",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 3.99,
+                    "category": null,
+                    "description": "Hähnchen-Geschn",
+                    "flags": " A",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 21.19,
+                    "category": null,
+                    "description": "zu zahlen",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 21.19,
+                    "category": null,
+                    "description": "Kreditkarte",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 20.6,
+                    "category": null,
+                    "description": "A 7%1,3519,25",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 0.59,
+                    "category": null,
+                    "description": "B 19 %0,090,50",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                }
+            ],
+            "mall": null,
+            "merchant_address": "13349 Berlin-Wedding",
+            "merchant_company_reg_no": null,
+            "merchant_name": "LIDL Müllerstraße 48-48a",
+            "merchant_phone": null,
+            "merchant_tax_reg_no": null,
+            "merchant_website": null,
+            "ocr_confidence": 95.31,
+            "ocr_text": "                        LIDL\n                  Müllerstraße 48-48a\n                 13349 Berlin-Wedding\n                                           EUR\n       TomateStrau. kg\n                                         0,87 A\n        0,672 kg x 1,29 EUR/kg\n      Bananen kg\n                                         1,06 A\n        0,818 kg x 1,29   EUR/kg\n      Gurke Stk\n                                        0,39 A\n      Bami Goreng\n                                        3,49 A\n      Nasi Goreng\n                                        3,49 A\n     Asiatisches Gemüse\n                                        1,99 A\n     H-Milch 1,5% OGT\n                                        0.95 A\n     Fr.Eier.a.Bo.ha\n                                        1,49 A\n     Apfelmus gezuckert\n     Meisterbrot                       0,89 A\n                                       1,99 A\n     Tiefkühltasche\n                                       0,59 B\n    Hähnchen-Geschn.\n                                       3,99 A\n    zu zahlen\n                                     21.19\n    Kreditkarte\n                                     21,19\n    MWSTX        MWST + Netto = Brutto\n   A 7%          1,35      19,25     20,60\n   B 19 %       0,09       0,50       0,59\n  Summe         1,44      19,75      21,19\n     Lade dir die Lidl Plus App herunter\n  und spare bei deinem nächsten Einkauf.\n TSE Transaktionsnummer: 370247\n Seriennr. Kasse: LDL-000-5044-1\n Prüfwert: dygnXwLGZ00hPuxTEo9YHVifH5PAAC4\n mGNMUQQK9GA5WVNwyLtieVXhHDO/UJS5j1t/Owo6k\n 6v07EdDszjCDTk + gWEIXTG6m + styVwTUZPLnt7Lp2/\n HMWPPkh6kgpI\n Signaturzähler: 750809\n 2023-06-21T17: 25: 02.000Z\n 2023-06-21T17: 26: 23.000Z 21.06.23 19:25\n 5044 768180/01\n         UST-ID-NR: DE813388858\n                          -F-G",
+            "payment_details": null,
+            "payment_method": null,
+            "receipt_no": "DE813388858",
+            "region": null,
+            "service_charge": null,
+            "source_locations": {
+                "date": [
+                    [
+                        {
+                            "x": 560,
+                            "y": 2020
+                        },
+                        {
+                            "x": 847,
+                            "y": 1999
+                        },
+                        {
+                            "x": 851,
+                            "y": 2055
+                        },
+                        {
+                            "x": 564,
+                            "y": 2076
+                        }
+                    ]
+                ],
+                "doc": [
+                    [
+                        {
+                            "x": -171,
+                            "y": -34
+                        },
+                        {
+                            "x": 850,
+                            "y": -110
+                        },
+                        {
+                            "x": 1026,
+                            "y": 2274
+                        },
+                        {
+                            "x": 5,
+                            "y": 2350
+                        }
+                    ]
+                ],
+                "merchant_address": [
+                    [
+                        {
+                            "x": 204,
+                            "y": 168
+                        },
+                        {
+                            "x": 649,
+                            "y": 156
+                        },
+                        {
+                            "x": 650,
+                            "y": 197
+                        },
+                        {
+                            "x": 206,
+                            "y": 209
+                        }
+                    ]
+                ],
+                "merchant_name": [
+                    [
+                        {
+                            "x": 340,
+                            "y": 40
+                        },
+                        {
+                            "x": 542,
+                            "y": 37
+                        },
+                        {
+                            "x": 543,
+                            "y": 99
+                        },
+                        {
+                            "x": 342,
+                            "y": 102
+                        }
+                    ],
+                    [
+                        {
+                            "x": 222,
+                            "y": 115
+                        },
+                        {
+                            "x": 629,
+                            "y": 106
+                        },
+                        {
+                            "x": 630,
+                            "y": 145
+                        },
+                        {
+                            "x": 223,
+                            "y": 155
+                        }
+                    ]
+                ],
+                "receipt_no": [
+                    [
+                        {
+                            "x": 412,
+                            "y": 2106
+                        },
+                        {
+                            "x": 643,
+                            "y": 2075
+                        },
+                        {
+                            "x": 648,
+                            "y": 2114
+                        },
+                        {
+                            "x": 417,
+                            "y": 2145
+                        }
+                    ]
+                ],
+                "total": [
+                    [
+                        {
+                            "x": 693,
+                            "y": 1238
+                        },
+                        {
+                            "x": 802,
+                            "y": 1231
+                        },
+                        {
+                            "x": 805,
+                            "y": 1271
+                        },
+                        {
+                            "x": 696,
+                            "y": 1278
+                        }
+                    ]
+                ]
+            },
+            "subtotal": null,
+            "tax": null,
+            "time": "19:25",
+            "tip": null,
+            "total": 21.19,
+            "width": 931
+        }
+    ],
+    "recognition_completed_on": 1688678694456,
+    "ref_no": "ocr_python_123",
+    "request_id": "P_92.184.100.134_ljrnozc8_410",
+    "request_received_on": 1688678693864,
+    "success": true
+}
