@@ -1,0 +1,9 @@
+CREATE TABLE receipts (
+	time TIMESTAMPTZ NOT NULL,
+	description TEXT NOT NULL,
+	amount DOUBLE PRECISION NULL,
+	flag TEXT NULL,
+	merchant_name TEXT NOT NULL,
+	merchant_address TEXT NOT NULL,
+	country TEXT NOT NULL,
+)
